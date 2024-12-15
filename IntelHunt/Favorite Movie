@@ -1,0 +1,18 @@
+_____________________________________
+
+What is his favorite movie?
+
+Flag Format: IntelHunt{MovieName}
+
+Example: IntelHunt{Inception}
+
+_____________________________________
+
+From his twitter account, we see the tweet : 
+'''
+Found myself quoting my favorite 1995 movie again: 'Of all the things I have lost, I miss my mind the most.'
+
+It's a classic line that never gets old.
+'''
+
+googling this stuff would lead u to the movie Hackers.

@@ -1,0 +1,14 @@
+___________________________________
+
+John frequently attends meetings in a unique tower.
+
+Identify the name of the tower from one of his posts.
+
+Flag Format: IntelHunt{AlTowerName}
+
+Example: IntelHunt{AlMamlaka}
+___________________________________
+
+From his twitter account, you should find the tweet about the tower and by reverse searching the image, u should find the answer easly
+
+Al Majdoul Tower.

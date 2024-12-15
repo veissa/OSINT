@@ -1,0 +1,15 @@
+___________________________________
+
+John once tweeted about acquiring a domain he had his eye on for a while after it expired.
+
+Locate the domain name to uncover more about John's work.
+
+Flag Format: IntelHunt{DomainName}
+
+Example: IntelHunt{Google}
+
+___________________________________
+
+From his twitter account, we find a tweet abt this, and using this website : https://www.whoxy.com/
+looking by the name of the company he provided : Wu Gao and the time they forgot abt it.
+I guess this is enough hint to solve it (u don't need to know of the website to find information abt the domaine name etc ...)

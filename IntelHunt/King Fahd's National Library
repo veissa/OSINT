@@ -1,0 +1,12 @@
+________________________________________
+
+John is rumored to have taken this particular photo, showcasing his photography hobby.
+
+Can you find the camera model used for this attached picture?
+
+Flag Format: IntelHunt{Camera Model}
+
+Example: IntelHunt{Nikon Z 7II}
+_________________________________________
+
+I will only provide a hint for this one, try looking in the metadata of the image, using exiftool would yeild the answer lol.

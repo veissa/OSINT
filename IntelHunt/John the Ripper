@@ -1,0 +1,17 @@
+_________________________________________________
+
+We have intercepted a critical piece of John's digital security: a hashed password b670f19e5726386fe9794460a05511da973a3b6a
+
+Analysis reveals the password structure begins with joHndo3SuPER$troN9p@s$ followed by five digits.
+
+Crack the hash and determine the complete password.
+
+Flag Format: IntelHunt{joHndo3SuPER$troN9p@s$#####}
+
+Example: IntelHunt{joHndo3SuPER$troN9p@s$12345}
+
+_________________________________________________
+
+I solved this one by writing a python script. bruteforce and hash and compare the hashes until they are the same and that is the flag.
+
+IntelHunt{joHndo3SuPER$troN9p@s$97637}

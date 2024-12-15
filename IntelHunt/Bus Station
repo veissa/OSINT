@@ -1,0 +1,23 @@
+______________________________________
+
+Our sources tell us that he took the first bus leaving the King Fahd 201 bus station.
+
+We need you to find the route of that bus.
+
+Note: You only have 3 attempts so double check your answer before submitting.
+
+Flag Format: IntelHunt{Bus #}
+
+Example: IntelHunt{Bus 1}
+
+______________________________________
+
+Understanding the question is half the answer most of the time, what we are looking for is the route of the first bus leaving the king fahd 201 bus station.
+it has to be the first.
+My investigation lead me to the transportation company's website, the one responsible fr buses etc,
+
+https://www.riyadhbus.sa/en/routes
+
+and checking here, you would find in the : Al Batha, the last bus station is king fahad 201, and the bus route number is 8.
+
+To sum it up, the flag is IntelHunt{Bus 8}

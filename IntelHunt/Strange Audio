@@ -1,0 +1,12 @@
+_______________________________________
+
+We have intercepted this strange audio file which seems to contain a hidden message.
+
+Analyze it and find the message.
+
+Flag Format: IntelHunt{...}
+
+_______________________________________
+
+Hint : consider openning the .wav file using sonice-visualizer or audacity and add a spectogram layer using ctrl+G
+You should be seeing smthng .

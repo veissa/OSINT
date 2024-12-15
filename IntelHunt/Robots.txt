@@ -1,0 +1,22 @@
+____________________________________
+
+He has hidden a message which can be found inside robots.txt on this website.
+
+Can you find it?
+
+Flag Format: IntelHunt{...}
+
+____________________________________
+
+I may not explain everything, so please make sure to goole what u do not understand, navigating to the robots.txt
+: https://umctf.com/robots.txt
+we find a lot of directories, 
+it's up to use to automate navigating them all, either using python's lib requests, or whatever,
+https://umctf.com/virus   gives :  IntelHunt{pi3C
+https://umctf.com/Emblem  gives :  1ECE}
+https://umctf.com/Mirror  gives :  e_BY_p
+
+(all these are 200 ok status)
+
+the flag should be : IntelHunt{pi3Ce_BY_p1ECE}
+

@@ -1,0 +1,12 @@
+____________________________
+
+Locate John's CV on his website.
+
+His phone number is likely listed there.
+
+Flag Format: IntelHunt{05...}
+
+____________________________
+
+As we already found his website and his Cv. normally u should be able to download it easly. That didn't work fr me though, so i inspected the download button to get the url myself
+and that's where i found this "https://johndata.xyz/assets/John_CV.pdf"  . from his cv we can see his phone number . bingo

@@ -1,0 +1,14 @@
+_________________________________
+
+All the intelligence agencies are looking at a clue.
+
+Can you help them find it?
+
+Flag Format: IntelHunt{...}
+_________________________________
+
+Reading this without exhausting urself looking fr the asnwer is a bad idea, as u can see, it has a few number of solves too.
+well it is more of a stegno than osint, the banner of his twitter account, yest that image, there smthng hidden in it, and using apreisolve website, 
+u can see the flag in front of u, please take ur time to understand hw these stuff work and hw it has hidden :
+
+IntelHunt{H1Dd3N_in_P1@in_s!gHt}

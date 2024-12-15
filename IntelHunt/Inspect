@@ -1,0 +1,19 @@
+___________________________________
+
+If you found John's website, inspect it thoroughly.
+
+He may have hidden something.
+
+Flag Format: IntelHunt{...}
+
+___________________________________
+
+We already found the website johndata.xyz, Inspect itself should be enough hint, using F12 to open the developper tools etc 
+and by inspecting, u will find in this path : view-source:https://johndata.xyz/style.css . it is in base64:
+
+/* SW50ZWxIdW50ezFuJHBlY3RfQUxMXzdoM190aU1FfQ== */
+
+and so : echo SW50ZWxIdW50ezFuJHBlY3RfQUxMXzdoM190aU1FfQ== | base64 --decode 
+
+this will give the flag : IntelHunt{1n$pect_ALL_7h3_tiME}
+

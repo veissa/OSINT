@@ -1,0 +1,14 @@
+_____________________________________________
+
+At what time was his Twitter account created?
+
+Flag Format: IntelHunt{HH:MM}
+
+Example: IntelHunt{05:30}
+_____________________________________________
+
+As u already saw if u have solved the previous challenge, among the infos we found from that website, was the creation date :
+Date Create
+Fri Jan 05 12:40:25 +0000 2024
+
+So, our flag shall be : IntelHunt{12:40}

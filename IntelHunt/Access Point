@@ -1,0 +1,17 @@
+_____________________________________
+
+He had previously used an Alfa wireless adapter to gain unauthorized access to an access point.
+
+Can you find the BSSID of that network?
+
+Flag Format: IntelHunt{BSSID}
+
+Example: IntelHunt{00:11:22:33:44:55}
+
+_____________________________________
+
+Anyone who did some tryhackme in OSINT would know of wifi osint, and websites like wigle.net come in handy in these situations.
+
+Looking for Thomson2EF9ED . in the wigle.net website, would give us the BSSID of that network.
+
+Isn't OSINT fun?

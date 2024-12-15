@@ -1,0 +1,15 @@
+________________________________________
+
+John's website is online, but who is hosting his DNS records?
+
+Investigate and find the DNS hosting provider of John's site.
+
+Flag Format: IntelHunt{CompanyName}
+
+Example: IntelHunt{Google}
+
+_______________________________________
+
+Finding this is one is actually easy, fr example using the command whois in kali would give the answer, there are a lot of ways to find this one 
+
+IntelHunt{Cloudflare}

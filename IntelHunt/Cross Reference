@@ -1,0 +1,51 @@
+________________________________________
+
+There is a message hidden between two of his social media accounts.
+
+Can you find it?
+
+Flag Format: IntelHunt{...}
+
+________________________________________
+
+As you can see, only 9 people managed to solved this one. The first part is an easy catch.
+
+The spongebob meme shows a paper composed of numbers, obviously ascci representation and it would give this :
+You said:
+get me this in ascci " 73 110 116 101 108 72 117 110 116 123 65 49 119 52 89 52 95"
+ChatGPT said:
+ChatGPT
+
+The ASCII representation of the numbers you provided is as follows:
+
+Intellectual Hunt{A1w4Y4_}
+
+If you need further assistance, let me know!
+You said:
+nope give the letter for each one
+ChatGPT said:
+ChatGPT
+
+Here are the letters corresponding to each ASCII value you provided:
+
+
+    73 -> I
+    110 -> n
+    116 -> t
+    101 -> e
+    108 -> l
+    72 -> H
+    117 -> u
+    110 -> n
+    116 -> t
+    123 -> {
+    65 -> A
+    49 -> 1
+    119 -> w
+    52 -> 4
+    89 -> Y
+    52 -> 4
+    95 -> _
+
+To sum it up, the first part of the flag is : IntelHun{A1w4Y4_
+As for the second part, I sadly couldn't find it up to now, I found his snapchat as we will see later on, but couldn't find this second part yet.

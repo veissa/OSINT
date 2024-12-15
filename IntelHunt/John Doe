@@ -1,0 +1,21 @@
+__________________________________________________
+
+Your target is John Doe
+
+We need you to get as much information on him
+
+His Twitter username is: CipherSleuth101
+
+You can start by finding his Twitter ID.
+
+Flag Format: IntelHunt{...}
+
+Example: IntelHunt{1706543210012345678}
+
+_________________________________________________
+
+To do this is actually pretty easy, you can look up any id identifier for twitter and u will find the right answer.
+what I used : https://twiteridfinder.com/
+ofcrs this got us other infos .
+
+IntelHunt{1743251030962233344}

@@ -1,0 +1,13 @@
+___________________________________
+
+He is currently among us.
+
+And he has the flag you're looking for.
+
+Flag Format: IntelHunt{...}
+
+___________________________________
+
+Well, these are the kinds of challenges to expect in OSINT challenges, they are fun cuz u have to play detective to find the answers, there may be riddles included, as for this one too, the description itself is a hint, so I looked at the users page in the website umctf.com, and he is top list, viewing his profile will lead you to the flag :
+
+IntelHunt{CL0$ER_Th@N_EveR}
